@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9324a5d3-3788-4e39-b440-d6290e3d87e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paths.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1axTwnU04eD5C0LQ1I33n1A9FkO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test.osm" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wysko\IdeaProjects\GTA5 YND2OSM" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git push --force" />
+      <command value="git push --set-upstream origin master" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Parse">
+    <configuration name="Parse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parse" />
+      <module name="GTA5_YND2OSM.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateXmlFileDemo" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tutorialspoint.xml.CreateXmlFileDemo" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialspoint.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Java Scratch.CreateXmlFileDemo" />
+        <item itemvalue="Application.Parse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9324a5d3-3788-4e39-b440-d6290e3d87e1" name="Default Changelist" comment="" />
+      <created>1587676485214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587676485214</updated>
+      <workItem from="1587676488516" duration="2348000" />
+      <workItem from="1587680575803" duration="265000" />
+      <workItem from="1587680858964" duration="13638000" />
+      <workItem from="1587778083763" duration="639000" />
+      <workItem from="1588903242112" duration="1273000" />
+      <workItem from="1588913415542" duration="1635000" />
+      <workItem from="1589853320388" duration="1080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="789" y="373" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1587681478262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="373" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587681478262" />
+    <state x="764" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1587687136166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587687136166" />
+    <state x="688" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587684178380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587684178380" />
+    <state x="448" y="221" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587682548939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="448" y="221" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587682548938" />
+    <state x="806" y="271" key="#xdebugger.XInspectDialog" timestamp="1587681603216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="271" key="#xdebugger.XInspectDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587681603216" />
+    <state x="714" y="223" key="#xdebugger.evaluate" timestamp="1587681020745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="223" key="#xdebugger.evaluate/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587681020745" />
+    <state x="547" y="106" key="CommitChangelistDialog2" timestamp="1589854252451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="106" key="CommitChangelistDialog2/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854252451" />
+    <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1589854243609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854243609" />
+    <state x="780" y="399" key="Github.ShareDialog" timestamp="1589854289406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="780" y="399" key="Github.ShareDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854289406" />
+    <state x="661" y="217" key="Github.UntrackedFilesDialog" timestamp="1589853406004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853406004" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1589853733941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853733941" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1589853733940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853733940" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1589853733940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853733940" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1589853733941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853733941" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1587766836426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587766836426" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1587766836426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587766836426" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1587766836426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587766836426" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1587766836426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587766836426" />
+    <state x="539" y="254" key="IDE.errors.dialog" timestamp="1587684621733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587684621733" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1587681436109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587681436109" />
+    <state x="489" y="205" key="Vcs.Push.Dialog.v2" timestamp="1589853732005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="205" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853732005" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1587683239934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587683239934" />
+    <state x="505" y="247" width="909" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587684326908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="247" width="909" height="620" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587684326908" />
+    <state x="2104" y="145" width="1404" height="716" key="dock-window-1" timestamp="1587691263281">
+      <screen x="1920" y="28" width="1680" height="1050" />
+    </state>
+    <state x="2104" y="145" width="1404" height="716" key="dock-window-1/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587691263281" />
+    <state x="737" y="413" key="git4idea.ui.GitResetDialog" timestamp="1589853727866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="413" key="git4idea.ui.GitResetDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853727866" />
+    <state x="669" y="238" key="new project wizard" timestamp="1588913050951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="238" key="new project wizard/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1588913050951" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1589853643848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853643848" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587683979878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587683979878" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="attributes.item(j+1)" language="JAVA" />
+        <watch expression="node.getChildNodes().item(7).getChildNodes()" language="JAVA" />
+        <watch expression="attribute" language="JAVA" custom="sun.font.EAttribute" />
+        <watch expression="osmRoot" language="JAVA" />
+        <watch expression="C:\Users\wysko\Desktop" language="JAVA" />
+        <watch expression="osmDoc.appendChild(osmRoot)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
