@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9324a5d3-3788-4e39-b440-d6290e3d87e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/Copyright.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/paths.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paths.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test.osm" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -116,12 +116,15 @@
       <workItem from="1587778083763" duration="639000" />
       <workItem from="1588903242112" duration="1273000" />
       <workItem from="1588913415542" duration="1635000" />
-      <workItem from="1589853320388" duration="1080000" />
+      <workItem from="1589853320388" duration="1216000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -167,14 +170,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854243609" />
-    <state x="780" y="399" key="Github.ShareDialog" timestamp="1589854289406">
+    <state x="780" y="399" key="Github.ShareDialog" timestamp="1589854418986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="780" y="399" key="Github.ShareDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854289406" />
-    <state x="661" y="217" key="Github.UntrackedFilesDialog" timestamp="1589853406004">
+    <state x="780" y="399" key="Github.ShareDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854418986" />
+    <state x="661" y="217" key="Github.UntrackedFilesDialog" timestamp="1589854423206">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853406004" />
+    <state x="661" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854423206" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1589853733941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="539" y="254" key="IDE.errors.dialog/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587684621733" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1587681436109">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1589854549190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587681436109" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854549190" />
     <state x="489" y="205" key="Vcs.Push.Dialog.v2" timestamp="1589853732005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589853643848" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587683979878">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589854519591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1587683979878" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.28.1680.1050@0.0.1920.1040" timestamp="1589854519591" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
